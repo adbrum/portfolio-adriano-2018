@@ -1,0 +1,5 @@
+node_modules
+.firebaserc
+firebase.*
+.idea
+.travis.yml
